@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+* Work hard to learn more about the world!
 <!--
 **OldDreamInWind/OldDreamInWind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
